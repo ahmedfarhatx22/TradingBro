@@ -7,6 +7,8 @@ parts:
     - file: some_content/investors_platform.ipynb  
     - file: some_content/1_B30S70.ipynb
     - file: some_content/2_OPC7EN9.ipynb
+    - file: some_content/3_M5enA8.ipynb
+    - file: some_content/4_CEMIenCEMIII.ipynb
     - file: some_content/carbonates_loss_plots_and_tables.ipynb  
 
 
