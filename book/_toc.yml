@@ -4,4 +4,10 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
-    - file: some_content/investors_platform.ipynb    
+    - file: some_content/investors_platform.ipynb  
+    - file: some_content/B30S70.ipynb
+    - file: some_content/carbonates_loss_plots_and_tables.ipynb  
+
+
+
+      
