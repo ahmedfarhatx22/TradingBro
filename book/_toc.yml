@@ -4,7 +4,8 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
-    - file: some_content/investors_platform.ipynb  
+    - file: some_content/0_95%.ipynb 
+    - file: some_content/investors_platform.ipynb 
     - file: some_content/1_B30S70.ipynb
     - file: some_content/2_OPC7EN9.ipynb
     - file: some_content/3_M5enA8.ipynb

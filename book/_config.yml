@@ -7,16 +7,16 @@ execute:
 
 # START DRAFT
 html:
+  use_widgets: true
   comments:
     hypothesis: true
 # END DRAFT
   
 sphinx:
-  
-    
     
   extra_extensions:
     - sphinx_exercise
+    - sphinx.ext.mathjax
   config:
     
     mathjax_path: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
