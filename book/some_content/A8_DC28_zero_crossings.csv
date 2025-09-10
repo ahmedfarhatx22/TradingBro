@@ -1,0 +1,3 @@
+Sample,Timepoint,File,Crossing,T_cross,Direction,Role,DTG_before,DTG_after
+b30s70a8%,DC28,DG_ExpDat_A8%DC28; 14-2-2025-2.csv,1,97.91181719590958,- ->+,end_of_loss,-2.7025454505980344e-09,2.702545444851763e-09
+b30s70a8%,DC28,DG_ExpDat_A8%DC28; 14-2-2025-2.csv,2,196.58681258996572,+->-,start_of_loss,5.4214193510323345e-09,-5.421419331259197e-09
